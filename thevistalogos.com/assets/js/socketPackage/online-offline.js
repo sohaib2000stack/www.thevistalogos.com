@@ -1,0 +1,1 @@
+document.addEventListener("visibilitychange",function(){"hidden"===document.visibilityState?socketHelper.tabSwitch("OFFLINE"):socketHelper.tabSwitch("ONLINE")});

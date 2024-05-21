@@ -1,0 +1,52 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 21 May 2024 23:03:52 at https://thevistalogos.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://thevistalogos.com/ -O1 "D:\www.thevistalogos.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:04:37	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://thevistalogos.com/)
+23:04:55	Warning: 	File not parsed, looks like binary: https://thevistalogos.com/assets/img/portfolio/logo/webp/01.webp
+23:04:55	Warning: 	File not parsed, looks like binary: https://thevistalogos.com/assets/img/portfolio/logo/webp/02.webp
+23:04:55	Warning: 	File not parsed, looks like binary: https://thevistalogos.com/assets/img/portfolio/logo/webp/03.webp
+23:04:55	Warning: 	File not parsed, looks like binary: https://thevistalogos.com/assets/img/portfolio/logo/webp/04.webp
+23:04:55	Warning: 	File not parsed, looks like binary: https://thevistalogos.com/assets/img/portfolio/logo/webp/05.webp
+23:04:55	Warning: 	File not parsed, looks like binary: https://thevistalogos.com/assets/img/portfolio/logo/webp/06.webp
+23:04:55	Warning: 	File not parsed, looks like binary: https://thevistalogos.com/assets/img/portfolio/logo/webp/07.webp
+23:04:55	Warning: 	File not parsed, looks like binary: https://thevistalogos.com/assets/img/portfolio/logo/webp/08.webp
+23:04:55	Warning: 	File not parsed, looks like binary: https://thevistalogos.com/assets/img/portfolio/logo/webp/09.webp
+23:04:59	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/fonts/glyphicons-halflings-regular.eot (from https://thevistalogos.com/assets/css/plugins.css)
+23:04:59	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/fonts/glyphicons-halflings-regular.eot? (from https://thevistalogos.com/assets/css/plugins.css)
+23:04:59	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/fonts/glyphicons-halflings-regular.woff2 (from https://thevistalogos.com/assets/css/plugins.css)
+23:04:59	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/fonts/glyphicons-halflings-regular.woff (from https://thevistalogos.com/assets/css/plugins.css)
+23:04:59	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/fonts/glyphicons-halflings-regular.ttf (from https://thevistalogos.com/assets/css/plugins.css)
+23:04:59	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/fonts/glyphicons-halflings-regular.svg (from https://thevistalogos.com/assets/css/plugins.css)
+23:04:59	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/css/owl.video.play.png (from https://thevistalogos.com/assets/css/plugins.css)
+23:04:59	Warning: 	File not parsed, looks like binary: https://thevistalogos.com/assets/webfonts/fa-brands-400.woff2
+23:04:59	Warning: 	File not parsed, looks like binary: https://thevistalogos.com/assets/webfonts/fa-regular-400.woff2
+23:04:59	Warning: 	File not parsed, looks like binary: https://thevistalogos.com/assets/webfonts/fa-solid-900.woff2
+23:05:00	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/fonts/icofont.eot?v=1.0.0-beta (from https://thevistalogos.com/assets/css/plugins.css)
+23:05:00	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/fonts/icofont.ttf?v=1.0.0-beta (from https://thevistalogos.com/assets/css/plugins.css)
+23:05:00	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/fonts/icofont.woff?v=1.0.0-beta (from https://thevistalogos.com/assets/css/plugins.css)
+23:05:00	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/fonts/icofont.svg?v=1.0.0-beta (from https://thevistalogos.com/assets/css/plugins.css)
+23:05:00	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/css/fonts/printify-icon.eot?hce66p (from https://thevistalogos.com/assets/css/plugins.css)
+23:05:00	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/css/fonts/printify-icon.ttf?hce66p (from https://thevistalogos.com/assets/css/plugins.css)
+23:05:00	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/css/fonts/printify-icon.woff?hce66p (from https://thevistalogos.com/assets/css/plugins.css)
+23:05:00	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/css/fonts/printify-icon.svg?hce66p (from https://thevistalogos.com/assets/css/plugins.css)
+23:05:00	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/img/flags%402x.png (from https://thevistalogos.com/assets/css/plugins.css)
+23:05:00	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/images/regional/flags.html (from https://thevistalogos.com/assets/css/plugins.css)
+23:05:00	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/images/flag-glows.html (from https://thevistalogos.com/assets/css/plugins.css)
+23:05:00	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/img/cta-bg-2-1.jpg (from https://thevistalogos.com/assets/css/style.css)
+23:05:00	Warning: 	File not parsed, looks like binary: https://thevistalogos.com/assets/img/testi-bg-1-1.webp
+23:05:00	Warning: 	File not parsed, looks like binary: https://thevistalogos.com/assets/img/phone.webp
+23:05:00	Warning: 	File not parsed, looks like binary: https://thevistalogos.com/assets/img/chat.webp
+23:05:00	Warning: 	File not parsed, looks like binary: https://thevistalogos.com/assets/img/right-chat-box.webp
+23:05:00	Warning: 	File not parsed, looks like binary: https://thevistalogos.com/assets/img/map-bg.webp
+23:05:00	Warning: 	File not parsed, looks like binary: https://thevistalogos.com/assets/img/fact-image.webp
+23:05:01	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/order/images/sprite.png (from https://thevistalogos.com/assets/order/css/style-web.css)
+23:05:01	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/order/images/sprite-pkg.png (from https://thevistalogos.com/assets/order/css/style-web.css)
+23:05:01	Error: 	"Not Found" (404) at link https://thevistalogos.com/assets/order/images/check-icon.png (from https://thevistalogos.com/assets/order/css/style-web.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 9 seconds : 192 links scanned, 168 files written (19211793 bytes overall) [18546693 bytes received at 268792 bytes/sec], 1097739 bytes transferred using HTTP compression in 28 files, ratio 18%, 8.0 requests per connection
+(23 errors, 18 warnings, 0 messages)
